@@ -17,8 +17,8 @@ Reverse engineering of gate-level netlists is a challenging problem in hardware 
 
 ### Project Materials
 - **[Final Paper Details](./VLSI%20Final%20Paper.docx)**
-- **Methodology Walkthrough Video**: *(Link to be added via Google Drive)*
-- **Model Training Video**: *(Link to be added via Google Drive)*
+- **[Methodology Walkthrough Video (ML in VLSI)](https://drive.google.com/file/d/1Nv6VuVkBfVvnb4jzNkFZzUIQW-i-kw9E/view?usp=sharing)**
+- **[Model Training Video](https://drive.google.com/file/d/1wUIqRU0kgVZHfRw8ww1c9gbaBvkjVvEC/view?usp=sharing)**
 
 ## 📂 Repository Structure
 ```text
@@ -32,8 +32,6 @@ Reverse engineering of gate-level netlists is a challenging problem in hardware 
  ┣ 📂 results/                 # Extracted performance metrics, loss curves, & graphs
  ┣ 📜 GNN_RE CODE.ipynb        # Complete Model Implementation and Experimentation Notebook
  ┣ 📜 VLSI Final Paper.docx    # Full technical documentation
- ┣ 📜 ML in VLSI.mp4           # Video presentation and walkthrough
- ┣ 📜 Model-Training video.mp4 # Video demonstration of model training phase
  ┣ 📜 .gitignore               # Ignored files configuration
  ┗ 📜 CONTRIBUTING.md          # Contribution guidelines
 ```
